@@ -1,0 +1,6 @@
+﻿  Data.cpp
+C:\Users\krzys\source\repos\MarketFuturesCalculator_v2\MarketFuturesCalculator_v2\Data.cpp(37,50): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\krzys\source\repos\MarketFuturesCalculator_v2\MarketFuturesCalculator_v2\Data.cpp(51,43): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  MarketFuturesCalculator_v2.cpp
+  Generating Code...
+  MarketFuturesCalculator_v2.vcxproj -> C:\Users\krzys\source\repos\MarketFuturesCalculator_v2\Debug\MarketFuturesCalculator_v2.exe
